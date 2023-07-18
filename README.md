@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo data storage component solution
+# Frontend Mentor - Clipboard landing page solution
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Overview
@@ -10,17 +10,18 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### Screenshot
 
-![Web](/screenshots/FM-14(2).png)
+![Web]()
 
-![Mobile](/screenshots/FM-14(1).png)
+![Mobile]()
 
 
 ### Links
 
-- Live Site URL: [Demo](https://fylo-data-storage-component-deepali.netlify.app/)
+- Live Site URL: [Demo]()
 
 ## My process
 
@@ -28,7 +29,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flexbox and Grid
 - Mobile-first workflow
 
 ## Author
