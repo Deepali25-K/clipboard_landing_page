@@ -14,14 +14,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Web]()
+![Web](/screenshots/FM-02(15).png)
 
-![Mobile]()
+![Mobile](/screenshots/FM-01(15).png)
 
 
 ### Links
 
-- Live Site URL: [Demo]()
+- Live Site URL: [Demo](https://clipboard-landing-page-deepali.netlify.app/)
 
 ## My process
 
