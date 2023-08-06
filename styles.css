@@ -83,9 +83,10 @@ th {
 
 body {
 	min-height: 100vh;
+	background: white url("/images/bg-header-mobile.png")
+		no-repeat top center;
 	font-family: "Bai Jamjuree", sans-serif;
 	font-size: 1.125rem; /*18px*/
-	background-color: white;
 	color: hsl(210, 10%, 33%);
 }
 
@@ -228,6 +229,11 @@ footer div {
 /*-- MEDIA QUERIES --*/
 
 @media (min-width: 380px) {
+	body {
+		background: white url("/images/bg-header-desktop.png")
+			no-repeat top center;
+	}
+
 	section {
 		padding: 0 1rem 0;
 	}
@@ -354,7 +360,7 @@ footer div {
 
 @media (min-width: 1440px) {
 	.snippet-tracking img {
-		margin-left: -6rem;
+		margin-left: -8rem;
 	}
 
 	.snippet-tracking {
